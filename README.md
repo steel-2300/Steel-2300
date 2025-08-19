@@ -10,8 +10,6 @@
 
 I’m a moderator — [LEGION](https://legion.cc).
 
-I'm interested in web development and games. Also, I hate JavaScript💀
-
 <h2><b>⭐ GitHub stats</b></h2>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steel-2300&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
