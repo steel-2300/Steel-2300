@@ -8,7 +8,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/x1steel)
 [![X/Twitter](https://img.shields.io/badge/-X-2CA5E0?style=flat&logo=x&logoColor=white)](https://x.com/steel2300)
 
-I’m a moderator — [LEGION](https://legion.cc).
+I’m a CM & Senator — [LEGION](https://legion.cc).
 
 <h2><b>⭐ GitHub stats</b></h2>
 <p>
